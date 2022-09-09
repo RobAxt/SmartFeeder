@@ -1,0 +1,6 @@
+.pio
+.vscode
+data/homie/config.json
+.travis.yml
+ui_bundle.gz
+
